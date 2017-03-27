@@ -1,0 +1,3 @@
+-cur_console:d:D:\Dev\ "%ProgramFiles(x86)%\Vim\vim74\vim.exe" /k 
+powershell -cur_console:n:sT40V
+cmd -new_console:n:sT50H
